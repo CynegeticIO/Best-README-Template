@@ -234,20 +234,21 @@ Use this space to list resources you find helpful and would like to give credit 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
+# Thanks The Consideration
+Any support is deeply appreciated.
+Crypto currencies have the lowest fees.
+Buy me a coffe for a few dollars.
+Or support my content creation via Patreon.
 
+## Patreon - Online Support
+https://www.patreon.com/QuantenGhost
 
-<!-- MARKDOWN LINKS & IMAGES -->
-<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/othneildrew/Best-README-Template.svg?style=for-the-badge
-[contributors-url]: https://github.com/othneildrew/Best-README-Template/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/othneildrew/Best-README-Template.svg?style=for-the-badge
-[forks-url]: https://github.com/othneildrew/Best-README-Template/network/members
-[stars-shield]: https://img.shields.io/github/stars/othneildrew/Best-README-Template.svg?style=for-the-badge
-[stars-url]: https://github.com/othneildrew/Best-README-Template/stargazers
-[issues-shield]: https://img.shields.io/github/issues/othneildrew/Best-README-Template.svg?style=for-the-badge
-[issues-url]: https://github.com/othneildrew/Best-README-Template/issues
-[license-shield]: https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=for-the-badge
-[license-url]: https://github.com/othneildrew/Best-README-Template/blob/master/LICENSE.txt
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/othneildrew
-[product-screenshot]: images/screenshot.png
+## Buy Me a Coffee
+https://buymeacoff.ee/QuantenGhost
+
+## Crypto Currency Wallets Recieving Donations
+> BTC:  `3PSa5wE9DEqmqZ9r6WSvZGGR5a9jRj1gkY`
+
+> BCH:  `1PyBPrVYdciLB1PonCvJS46vk9noLqiyaF`
+
+> ETH:  `0x4d523e45Cf7D2Ed7DDA379E3253e36dE1D171EeF`
